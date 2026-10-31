@@ -1,0 +1,6 @@
+{
+  "name": "Earth Voyage - Roaming Data Calculator & eSIM Ledger",
+  "description": "Tactile travel data calculator with activity breakdown, safety cushion, and matched international eSIM packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
